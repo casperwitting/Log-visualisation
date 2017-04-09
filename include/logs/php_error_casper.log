@@ -2806,4 +2806,13 @@ Stack trace:
 [20-Feb-2017 13:54:54 Europe/Berlin] PHP Notice:  Undefined variable: status in /Applications/MAMP/htdocs/VdValk/artisan on line 57
 [20-Feb-2017 14:00:15 Europe/Berlin] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; MockeryTest_OldStyleConstructor has a deprecated constructor in .//vendor/mockery/mockery/tests/Mockery/ContainerTest.php on line 1668
 [20-Feb-2017 14:00:15 Europe/Berlin] PHP Parse error:  syntax error, unexpected '?' in .//vendor/mockery/mockery/tests/Mockery/Fixtures/MethodWithNullableReturnType.php on line 33
-
+[06-Mar-2017 12:29:03 Europe/Amsterdam] PHP Warning:  require(/Applications/MAMP/htdocs/ariez/bootstrap/../vendor/autoload.php): failed to open stream: No such file or directory in /Applications/MAMP/htdocs/ariez/bootstrap/autoload.php on line 17
+[06-Mar-2017 12:29:03 Europe/Amsterdam] PHP Fatal error:  require(): Failed opening required '/Applications/MAMP/htdocs/ariez/bootstrap/../vendor/autoload.php' (include_path='.:/Applications/MAMP/bin/php/php7.0.0/lib/php') in /Applications/MAMP/htdocs/ariez/bootstrap/autoload.php on line 17
+[09-Mar-2017 12:53:12 Europe/Amsterdam] PHP Warning:  require(/Applications/MAMP/htdocs/ariez/bootstrap/../vendor/autoload.php): failed to open stream: No such file or directory in /Applications/MAMP/htdocs/ariez/bootstrap/autoload.php on line 17
+[09-Mar-2017 12:53:12 Europe/Amsterdam] PHP Fatal error:  require(): Failed opening required '/Applications/MAMP/htdocs/ariez/bootstrap/../vendor/autoload.php' (include_path='.:/Applications/MAMP/bin/php/php7.0.0/lib/php') in /Applications/MAMP/htdocs/ariez/bootstrap/autoload.php on line 17
+[13-Mar-2017 22:56:46 UTC] PHP Warning:  Parameter 1 to W3_Plugin_TotalCache::ob_callback() expected to be a reference, value given in /Applications/MAMP/htdocs/Hangbord/wp-includes/functions.php on line 3297
+[13-Mar-2017 22:56:49 UTC] PHP Warning:  Parameter 1 to W3_Plugin_TotalCache::ob_callback() expected to be a reference, value given in /Applications/MAMP/htdocs/Hangbord/wp-includes/functions.php on line 3297
+[14-Mar-2017 00:36:55 Europe/Amsterdam] PHP Parse error:  syntax error, unexpected 'col' (T_STRING) in /Applications/MAMP/htdocs/index.php on line 86
+[14-Mar-2017 00:37:09 Europe/Amsterdam] PHP Parse error:  syntax error, unexpected 'col' (T_STRING) in /Applications/MAMP/htdocs/index.php on line 86
+[14-Mar-2017 16:34:48 Europe/Amsterdam] PHP Fatal error:  Class 'Illuminate\Foundation\Exceptions\Handler' not found in /Applications/MAMP/htdocs/botblecms/app/Exceptions/Handler.php on line 9
+[14-Mar-2017 15:34:59 UTC] PHP Warning:  Parameter 1 to W3_Plugin_TotalCache::ob_callback() expected to be a reference, value given in /Applications/MAMP/htdocs/Hangbord/wp-includes/functions.php on line 3297
